@@ -515,6 +515,10 @@ ol, ul {
 	margin: 0 5px 13px 0;
 	width:30%;
 	float: left;
+	    border: solid 1px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding: 5px 3px 5px 15px;
 }
 .zf-threeColumns .zf-tempContDiv span input[type="checkbox"] {
 	display:block;
@@ -526,6 +530,7 @@ ol, ul {
 	margin-right: 10px;
 	width: 20px;
 	height: 20px;
+	    margin-top: 4px;
 }
 .zf-threeColumns .zf-tempContDiv span input[type="radio"] {
 	display:block;
@@ -542,6 +547,11 @@ ol, ul {
 	padding: 0 0 5px;
 	line-height: 25px;
 	font-size: 16px;
+	    line-height: 30px;
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: middle;
+	    padding: 0;
 }
 
 .zf-mSelect select{ font-size:13px;}	
