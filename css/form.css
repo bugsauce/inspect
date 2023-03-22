@@ -96,6 +96,8 @@ ol, ul {
 
 .zf-templateWidth { 
 	width:800px;
+	width: 100%;
+	max-width: 90%;
 	}
 
 .zf-templateWrapper {
