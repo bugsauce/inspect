@@ -507,6 +507,9 @@ ol, ul {
 	padding: 0;
 	margin-top:3px;
 	float:left;
+	margin-right: 10px;
+	width: 20px;
+	height: 20px;
 }
 .zf-threeColumns .zf-tempContDiv span input[type="radio"] {
 	display:block;
@@ -521,6 +524,8 @@ ol, ul {
 	display: block;
 	margin: 0 0 0 20px;
 	padding: 0 0 5px;
+	line-height: 25px;
+	font-size: 16px;
 }
 
 .zf-mSelect select{ font-size:13px;}	
